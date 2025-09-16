@@ -74,7 +74,7 @@ Partial Class Form1
         '
         'btnLogin
         '
-        Me.btnLogin.Location = New System.Drawing.Point(16, 78)
+        Me.btnLogin.Location = New System.Drawing.Point(12, 85)
         Me.btnLogin.Name = "btnLogin"
         Me.btnLogin.Size = New System.Drawing.Size(75, 23)
         Me.btnLogin.TabIndex = 5
